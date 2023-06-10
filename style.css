@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.loja{
+    background-color: #ff2dc0;
+}
+.Casa{
+    padding-left: 500px;
+    font-size: 80px;
+}
+.bem{
+    padding-left: 620px;
+    font-size: 50px;
+}
+.espero{
+    padding-left: 420px;
+    font-size: 50px;
+}
+.chocolate{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+}
+.nome{
+    padding-left: 0px;
+    font-size: 25px;
+}
+.rel1{
+    padding-left: 0px;
+    font-size: 25px;
+}
+.fuba{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.nome1{
+    padding-left: 200px;
+    font-size: 25px;
+}
+
+.casamento{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.morango{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.pote{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.branco{
+    width: 400px;
+    height: 400px;
+    padding-top: 200px;
+    padding-left: 200px;
+}
+.bolo-div{
+    text-align: center;
+}
+.todos-bolo{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%  20%;
+}
