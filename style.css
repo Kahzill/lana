@@ -18,57 +18,21 @@
     font-size: 50px;
 }
 .chocolate{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-}
-.nome{
-    padding-left: 0px;
-    font-size: 25px;
-}
-.rel1{
-    padding-left: 0px;
-    font-size: 25px;
-}
-.fuba{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-    padding-left: 200px;
-}
-.nome1{
-    padding-left: 200px;
-    font-size: 25px;
-}
-
-.casamento{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-    padding-left: 200px;
-}
-.morango{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-    padding-left: 200px;
-}
-.pote{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-    padding-left: 200px;
-}
-.branco{
-    width: 400px;
-    height: 400px;
-    padding-top: 200px;
-    padding-left: 200px;
-}
-.bolo-div{
-    text-align: center;
+    width: 300px;
+    height: 300px;
+    padding-left: 100px;
+    padding-top: 100px;
 }
 .todos-bolo{
     display: grid;
-    grid-template-columns: 20% 20% 20% 20%  20%;
+    grid-template-columns:  30% 30% 30% 0% ;
+}
+.nome{
+    padding-left: 190px;
+}
+.rel1{
+    padding-left: 200px;
+}
+.rel2{
+    padding-left: 230px;
 }
